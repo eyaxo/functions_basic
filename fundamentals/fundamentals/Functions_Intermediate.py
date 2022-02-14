@@ -67,3 +67,4 @@ def printInfo(some_dict):
         for a in range(len(list)):
             print(list[a])
 printInfo(dojo)
+#c
